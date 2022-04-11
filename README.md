@@ -1,2 +1,2 @@
-# remaro_data
-Index of data generated in the REMARO project
+# REMARO data
+This repo contains an index of data generated in the REMARO project
